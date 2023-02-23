@@ -1,0 +1,16 @@
+.yuriImageAndSelect{
+    display:flex;
+    flex-direction:row;
+    height: 500px;
+}
+
+.yuriImage{
+    height: 500px;
+    width: 30%;
+}
+
+.yuriSelect{
+
+    width: 100%;
+}
+
